@@ -1,0 +1,56 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 19:31:50 feb 18, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:04:30 feb 19, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(/web/20140105044321/http://themes.googleusercontent.com/static/fonts/ptsans/v5/FUDHvzEKSJww3kCxuiAo2A.ttf) format('truetype');
+}
+body{font-family: 'PT Serif', serif;font-style:normal;font-weight:300;}h1,h2,h3,h4,h5,h6{font-family: 'PT Serif', serif;font-style:normal;font-weight:600;}
+#headerwrap{background: #fff}
+#mainwrap{background: #EAEEF9}
+#mainwrap * {color: #0f1a27 !important; text-align: left;}
+#footer{background: #CFD336}
+#footer * {color: #24270f !important;}
+#footerbwrap {background: #321F0E;}
+#footerbwrap * {color: #fff !important;}
+#footer .block .content ul li {border-color: #24270f;}
+.outerpagewrap{display: block !important; background-color: #EAEEF9; margin:0; border:0;}
+.outerpagewrap * {color: #0f1a27 !important;}
+.outerpagewrap .pagewrap {background: #EAEEF9; }
+.outerpagewrap #breadcrumb {display: block;}
+.back-transition{width: 100%; height: 30px;display: block; clear: both; background-size: cover}
+.back-transition.cloud-sky{background-image: url("nuvole-cielo.jpg");position: relative;top: 120px;}
+.back-transition.sky-earth{background-image: url("cielo-terra.jpg");position: relative;top: 90px;}
+.back-transition.earth-terrain{background-image: url("terra-sotto.jpg");}
+#menu-categorie-footer td {padding: 3px}
+#menu-categorie-footer td img{width: 45px; height:45px}
+.gmap-processed{background-image: url("gmap.jpg"); background-repeat: no-repeat; background-size: cover; max-width: 610px}
+#block-views-produttori-vicini-block-2 {padding:15px; box-sizing: border-box;}
+#block-views-produttori-vicini-block-2 table {width: 100%;}
+#block-views-produttori-vicini-block-2 table td {width: 50%;}
+@media screen and (max-width: 970px) and (min-width: 0px) {
+  .menu-header {display: none; }
+  .outerpagewrap .pagewrap {margin: 0px; }
+  .back-transition{position: static !important}
+  #footer{top:0px}
+  #menu-categorie-footer table {margin: auto}
+  #content .section {padding: 0px 20px}
+  #mainwrap * {color: #0f1a27 !important; text-align: center;}
+  .gmap-processed{width: 100%; margin: auto;}
+  .region.region-content * {width: 100%;}
+}
+
